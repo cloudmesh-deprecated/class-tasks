@@ -11,8 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   assignment	      
-
+   assignment
+   azure
+   docker
+   
 Indices and tables
 ==================
 

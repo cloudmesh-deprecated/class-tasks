@@ -3,6 +3,8 @@
 +--------------+------------------------+--------+--------+------------+
 |               **System stack**                                       |
 +--------------+------------------------+--------+--------+------------+
+|              | ansible                |        |        | x (4)      |
++--------------+------------------------+--------+--------+------------+
 | x            | scientific linux       |        |        |            |
 +--------------+------------------------+--------+--------+------------+
 | x            | latex                  |        |        |            |
@@ -62,7 +64,10 @@
 
 
 
-1. develop cloudmesh based workflow management for HPC jobs on comet/juliet supercomputers
-   expand existing hpc command xx
+1. develop cloudmesh based workflow management for HPC jobs on
+   comet/juliet supercomputers expand existing hpc command xx
 2. depends on Slurm
 3. in alternate coexisting installs (we need for centos, windows 10, and ubuntu)
+4. as ansible does not run on windows you have a choice on deploying
+   it in a vm or docker. For that reason all Windows project must do
+   this project first.

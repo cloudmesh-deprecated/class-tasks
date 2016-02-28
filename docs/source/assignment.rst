@@ -1,8 +1,9 @@
-Assignment
-===========
+Assignment - Ansible
+=====================
 
 1. Develop ansible scripts to deploy 
 2. Demonstrate use of the ansible scripts by
+   
    1. create a reproducable deployment
    2. have a usecase demonstrate that the deployment works
    3. contribute the ansible script and the demnstration
@@ -18,6 +19,10 @@ We have identified the following projects with various degree of difficulty. Pic
 * 3 stars all perfectly done = C
 * 2 stars all perfectly done = D
 * 1 stars all perfectly done = D-
+
+(a) One of the projects must be 3 stars or you must have 2 two star projects.
+
+6 or more points will add bonus, but ponus only applies if condition (a) has been perfectly solved.
 
 Point deduction for security violations
 ----------------------------------------
@@ -75,3 +80,6 @@ nosetest/pytest
 link and documentation to a unit test that verifies your code is installed
 link and documentation to a unit test that verifies your code is actually working
 (real non trivial example if possible)
+
+
+.. note:: If you like to combine this assignment with an assignemnt you have in another class such as Judy and MArlon, please contact laszewski@gmail.com to dicusss overlap and feasability.
