@@ -75,3 +75,6 @@ nosetest/pytest
 link and documentation to a unit test that verifies your code is installed
 link and documentation to a unit test that verifies your code is actually working
 (real non trivial example if possible)
+
+
+.. note:: If you like to combine this assignment with an assignemnt you have in another class such as Judy and MArlon, please contact laszewski@gmail.com to dicusss overlap and feasability.
