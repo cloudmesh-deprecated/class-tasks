@@ -3,6 +3,7 @@ Assignment
 
 1. Develop ansible scripts to deploy 
 2. Demonstrate use of the ansible scripts by
+   
    1. create a reproducable deployment
    2. have a usecase demonstrate that the deployment works
    3. contribute the ansible script and the demnstration
@@ -18,6 +19,10 @@ We have identified the following projects with various degree of difficulty. Pic
 * 3 stars all perfectly done = C
 * 2 stars all perfectly done = D
 * 1 stars all perfectly done = D-
+
+(a) One of the projects must be 3 stars or you must have 2 two star projects.
+
+6 or more points will add bonus, but ponus only applies if condition (a) has been perfectly solved.
 
 Point deduction for security violations
 ----------------------------------------
