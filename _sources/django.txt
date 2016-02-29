@@ -1,0 +1,12 @@
+Project - Cloudmesh Portal
+==================
+
+
+Cloudmesch contains a django based portal framework. Develop this framework further to address one of the following aspects
+
+1. Develop an IaaS based portal that showcases management of virtual machines
+2. Develop a framework that showcases utilization and monitoring of the IaaS frameworks
+3. Develop a framework for mangaing HPC experiments (requires the HPC experiment framework to be further developed first whcih is doable)
+4. Develop a framework that manages launching and monitoring of ansible scripts
+5. Develop a framework that manages multi docker vms to manage a virtual cluster
+
