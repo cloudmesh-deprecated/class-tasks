@@ -1,4 +1,4 @@
-Assignment - Cloudmesh Azure
+Project - Cloudmesh Azure
 ============================
 
 This is a 6 star project if done and can be pursued as alternative to other homework. However, this may not be an easy project and requires weekly progress reports.
